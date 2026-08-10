@@ -49,8 +49,9 @@ Student developer passionate about open source, freelancing, and cybersecurity. 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=TheVirtuoso123&show_icons=true&theme=tokyonight&title_color=db0025&icon_color=db0025&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=TheVirtuoso123&layout=compact&theme=tokyonight&title_color=db0025&icon_color=db0025&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://vercel.app" alt="top langs" />
 </p>
+
 
 ### 📈 Contribution Graph
 
